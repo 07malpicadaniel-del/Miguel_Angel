@@ -1,0 +1,22 @@
+{
+  "1": {
+    "inputs": {
+      "prompt": "pixel art character",
+      "seed": 42,
+      "steps": 30,
+      "width": 1024,
+      "height": 1024
+    },
+    "class_type": "QwenImage21Node"
+  },
+  "2": {
+    "inputs": {
+      "filename_prefix": "rembrandt_qwen",
+      "images": [
+        "1",
+        0
+      ]
+    },
+    "class_type": "SaveImage"
+  }
+}

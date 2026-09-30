@@ -1,0 +1,22 @@
+{
+  "1": {
+    "inputs": {
+      "prompt": "16-bit SNES pixel art esqueleto sprite, top-down perspective, native transparent alpha background",
+      "seed": 42,
+      "steps": 30,
+      "width": 768,
+      "height": 768
+    },
+    "class_type": "QwenImage21Node"
+  },
+  "2": {
+    "inputs": {
+      "filename_prefix": "rembrandt_qwen",
+      "images": [
+        "1",
+        0
+      ]
+    },
+    "class_type": "SaveImage"
+  }
+}

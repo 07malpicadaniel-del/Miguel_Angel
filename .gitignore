@@ -1,0 +1,25 @@
+# Entornos virtuales y Python
+**/venv/
+**/__pycache__/
+*.py[cod]
+
+# Modelos y salidas pesadas de Monet (ComfyUI)
+monet/models/
+monet/output/
+monet/input/
+monet/temp/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Artefactos de Rust / Cargo
+**/target/
+
+# Dependencias de Node / Frontend
+**/node_modules/
+**/dist/
+
+# Archivos de sistema y logs
+*.log
+.DS_Store

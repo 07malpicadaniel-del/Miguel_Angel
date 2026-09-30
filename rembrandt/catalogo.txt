@@ -1,0 +1,381 @@
+👥 A. Héroe, Mascotas y Jefes Titanes
+La Parca (Grim Reaper Default)
+hero_grim_reaper.png
+Tiny chibi Grim Reaper sprite sheet, walk cycle animation frames, simple black cloak, glowing neon green eyes, cyan accents, pure chroma green background. POV 45^\circ.
+
+Skin Pharaoh Reaper
+skin_pharaoh_reaper.png
+Tiny chibi Grim Reaper sprite sheet, walk cycle animation frames, simple golden Egyptian cloak, lapis lazuli accents, pure chroma green background. POV 45^\circ.
+
+Skin Volcanic Ember Reaper
+skin_volcanic_reaper.png
+Tiny chibi Grim Reaper sprite sheet, walk cycle animation frames, simple magma cloak, orange fire aura, pure chroma green background. POV 45^\circ.
+
+Skin Frostbite Reaper
+skin_frostbite_reaper.png
+Tiny chibi Grim Reaper sprite sheet, walk cycle animation frames, simple snow cloak, soul blue accents, pure chroma green background. POV 45^\circ.
+
+Sabueso Espectral (Pet 1)
+pet_soul_hound.png
+Tiny chibi spectral wolf pet sprite sheet, walk cycle animation frames, neon green, pure chroma green background. POV 45^\circ.
+
+Fénix de Aether (Pet 2)
+pet_aether_phoenix.png
+Tiny chibi fire phoenix pet sprite sheet, flying animation frames, open wings, pure chroma green background. POV 45^\circ.
+
+Titan General (Jefe 1)
+boss_titan_general.png
+Chibi titan warrior boss sprite sheet, heavy walk cycle animation frames, simple crimson armor, pure chroma green background. POV 45^\circ.
+
+Aether Overlord (Jefe 2)
+boss_aether_overlord.png
+Chibi cosmic void entity boss sprite sheet, floating animation frames, dark purple aura, pure chroma green background. POV 45^\circ.
+
+🏃 B. 18 Clases de Almas Humanas Rebeldes
+Ciudadano Rebelde
+human_civilian.png
+Tiny chibi rebel human sprite sheet, walk cycle animation frames, casual clothes, pure chroma green background. POV 45^\circ.
+
+Policía Antidisturbios
+human_police.png
+Tiny chibi riot police sprite sheet, walk cycle animation frames, tactical blue helmet, pure chroma green background. POV 45^\circ.
+
+Soldado Armado
+human_military.png
+Tiny chibi armed soldier sprite sheet, walk cycle animation frames, green uniform, pure chroma green background. POV 45^\circ.
+
+Vaquero Fugitivo
+human_cowboy.png
+Tiny chibi fugitive cowboy sprite sheet, walk cycle animation frames, wide-brimmed hat, pure chroma green background. POV 45^\circ.
+
+
+🃏 7. Ilustraciones de las 12 Cartas Rogue-Lite y Sinergias
+Vampiric Harvest
+card_vampiric_harvest_00001_.png
+16-Bit Retro SNES style card illustration, scythe absorbing red life spheres, blood red accents.
+
+Spectral Dash
+card_spectral_dash_00001_.png
+16-Bit Retro SNES style card illustration, Grim Reaper leaving shadow trail at high speed, cyan and purple accents.
+
+Overclocked Sentries
+card_overclocked_sentries_00001_.png
+16-Bit Retro SNES style card illustration, turret firing blue plasma bursts.
+
+Scavenger Master
+card_scavenger_master_00001_.png
+16-Bit Retro SNES style card illustration, chest overflowing with crystals and gold.
+
+Chrono Freeze
+card_chrono_freeze_00001_.png
+16-Bit Retro SNES style card illustration, glowing ice hourglass freezing time.
+
+Lightning Chain Cleave
+card_lightning_chain_00001_.png
+16-Bit Retro SNES style card illustration, chain lightning connecting souls.
+
+Necrotic Shield
+card_necrotic_shield_00001_.png
+16-Bit Retro SNES style card illustration, transparent spectral barrier shielding the Grim Reaper.
+
+Vampiric Lightning (Fused)
+card_fused_vampiric_lightning_00001_.png
+16-Bit Retro SNES style card illustration, bloody red lightning connecting enemies.
+
+Flawless Berserker
+card_berserker_cleave_00001_.png
+16-Bit Retro SNES style card illustration, scythe with golden aura of critical damage.
+
+Soul Magnet Nova
+card_soul_magnet_00001_.png
+16-Bit Retro SNES style card illustration, magnetic shockwave attracting glowing orbs.
+
+Miasma Mind Shatter
+card_mind_shatter_00001_.png
+16-Bit Retro SNES style card illustration, confused human attacking another with miasma magic.
+
+Aether Core Overcharge
+card_aether_overcharge_00001_.png
+16-Bit Retro SNES style card illustration, Underworld Core firing defensive lasers.
+
+🌍 8. Ilustraciones de Fondos de los 13 Biomas
+Prairie Meadow
+bg_biome_prairie_00001_.png
+Green prairie meadow, oak trees, starry sky, retro 16-bit indie game background.
+
+Autumn Forest
+bg_biome_autumn_00001_.png
+Autumn forest, golden leaves, rustic log cabins, retro 16-bit indie game background.
+
+Snowy Tundra
+bg_biome_tundra_00001_.png
+Snowy tundra, blue ice glaciers, snow-covered pine trees, retro 16-bit indie game background.
+
+Desert Oasis
+bg_biome_desert_00001_.png
+Desert oasis, golden sand dunes, palm trees, retro 16-bit indie game background.
+
+Sakura Cherry Valley
+bg_biome_sakura_00001_.png
+Sakura cherry valley, pink blossoming gardens, wooden temples, retro 16-bit indie game background.
+
+Tropical Jungle
+bg_biome_jungle_00001_.png
+Dense tropical jungle, mud rivers, intertwined vines, retro 16-bit indie game background.
+
+Misty Swamp
+bg_biome_swamp_00001_.png
+Dark misty swamp, weeping willows, green fog, retro 16-bit indie game background.
+
+Volcanic Ash Valley
+bg_biome_volcanic_00001_.png
+Volcanic ash valley, black basalt basins, burning lava rivers, retro 16-bit indie game background.
+
+Pine Taiga
+bg_biome_taiga_00001_.png
+High mountain pine taiga forest, granite rocks, retro 16-bit indie game background.
+
+Savanna Plains
+bg_biome_savanna_00001_.png
+Dry savanna plains, acacia trees, red clay, retro 16-bit indie game background.
+
+Cyberpunk City
+bg_biome_cyberpunk_00001_.png
+Ruined cyberpunk city, neon purple and cyan signs, retro 16-bit indie game background.
+
+Fungal Caverns
+bg_biome_fungal_00001_.png
+Underground cavern, turquoise bioluminescent mushrooms, retro 16-bit indie game background.
+
+Atlantis Islands
+bg_biome_atlantis_00001_.png
+Atlantis islands, submerged temples, deep ocean, retro 16-bit indie game background.
+
+
+🏛️ C. Estructuras Defensivas, Trampas y Mesas de Crafteo
+Altar Crucible (Crafteo Básico)
+structure_soul_crucible_00001_.png
+16-Bit Retro gothic stone anvil, green fire, minimalist SNES indie game sprite. POV 45^\circ.
+
+Citadel Sanctum (Crafteo Mítico)
+structure_citadel_sanctum_00001_.png
+16-Bit Retro imperial altar, floating crystals, minimalist SNES indie game sprite. POV 45^\circ.
+
+Cofre Nether
+structure_nether_chest_00001_.png
+16-Bit Retro wood chest, copper hardware, minimalist SNES indie game sprite. POV 45^\circ.
+
+Cofre Antiguo de Botín
+structure_loot_chest_00001_.png
+16-Bit Retro ancient golden chest, minimalist SNES indie game sprite. POV 45^\circ.
+
+Torreta Soul Sentry
+structure_turret_sentry_00001_.png
+16-Bit Retro stone pillar turret, floating blue plasma sphere, minimalist SNES indie game sprite. POV 45^\circ.
+
+Torreta Frost Cannon
+structure_turret_frost_00001_.png
+16-Bit Retro ice crystal cannon turret, minimalist SNES indie game sprite. POV 45^\circ.
+
+Cañón Solar Beam
+structure_turret_solar_00001_.png
+16-Bit Retro golden turret, solar crystal lens, minimalist SNES indie game sprite. POV 45^\circ.
+
+Torreta Plasma Storm
+structure_plasma_turret_00001_.png
+16-Bit Retro citadel turret, pink neon plasma sphere, minimalist SNES indie game sprite. POV 45^\circ.
+
+Trampa Soul Slow Trap
+structure_trap_slow_00001_.png
+16-Bit Retro purple pressure plate trap, minimalist SNES indie game sprite. POV 45^\circ.
+
+Trampa Poison Dart Trap
+structure_trap_poison_00001_.png
+16-Bit Retro swamp plate trap, green toxic gas, minimalist SNES indie game sprite. POV 45^\circ.
+
+Santuario Grace
+structure_grace_shrine_00001_.png
+16-Bit Retro cherry blossom torii gate, lantern, minimalist SNES indie game sprite. POV 45^\circ.
+
+Núcleo del Inframundo (Core)
+structure_power_core_00001_.png
+16-Bit Retro floating Aether crystal core, minimalist SNES indie game sprite. POV 45^\circ.
+
+🌱 4. Agricultura, Plantación y Frutos Espectrales
+Brote de Árbol Nether
+item_tree_sapling_00001_.png
+16-Bit Retro tiny neon green sapling UI icon, floating root, flat colors.
+
+Semillas de Cultivo
+item_soul_crop_seed_00001_.png
+16-Bit Retro tiny glowing emerald seeds bag UI icon, flat colors.
+
+Huerto de Almas (Baldosa)
+tile_soul_crop_orchard_00001_.png
+16-Bit Retro isometric dirt tile, glowing essence fruit plants, minimalist SNES indie game sprite. POV 45^\circ.
+
+Fruto de Esencia de Alma
+item_soul_essence_fruit_00001_.png
+16-Bit Retro tiny emerald green mystical fruit UI icon, flat colors.
+
+💎 5. Gemas Místicas, Barco Espectral y Objetos
+Guadaña Espectral
+item_scythe_spectral_00001_.png
+16-Bit Retro tiny spectral scythe blade UI icon, cyan flash, flat colors.
+
+Guadaña Infernal
+item_scythe_infernal_00001_.png
+16-Bit Retro tiny infernal scythe blade UI icon, volcanic fire, flat colors.
+
+Barco Espectral (Ferry)
+item_nether_ferry_ship_00001_.png
+16-Bit Retro dark wood spectral ferry ship, minimalist SNES indie game sprite. POV 45^\circ.
+
+Lifesteal Nether Ruby
+gem_lifesteal_ruby_00001_.png
+16-Bit Retro tiny carved blood ruby gem UI icon, flat colors.
+
+Chain Lightning Sapphire
+gem_lightning_sapphire_00001_.png
+16-Bit Retro tiny electric sapphire gem UI icon, flat colors.
+
+Infernal Fire Garnet
+gem_infernal_garnet_00001_.png
+16-Bit Retro tiny flaming garnet gem UI icon, flat colors.
+
+Aegis Obsidian Diamond
+gem_obsidian_diamond_00001_.png
+16-Bit Retro tiny obsidian diamond UI icon, flat colors.
+
+Swift Wind Topaz
+gem_swift_topaz_00001_.png
+16-Bit Retro tiny golden topaz gem UI icon, flat colors.
+
+Runa Socket de Mascota
+rune_pet_socket_00001_.png
+16-Bit Retro tiny circular purple stone rune UI icon, flat colors.
+
+Llave de la Ciudadela
+item_citadel_key_00001_.png
+16-Bit Retro tiny golden key UI icon, blue crystal, flat colors.
+
+Farol de Almas
+item_nether_lantern_00001_.png
+16-Bit Retro tiny iron lantern UI icon, green flame, flat colors.
+
+
+🖥️ 2. Pantalla Principal, Menús e Interfaz UI de 16-Bits
+Fondo Pantalla Principal
+bg_main_menu_00001_.jpg
+16-Bit Retro SNES style landscape, Grim Reaper in front of a burning Aether portal, flat colors, retro indie game background.
+
+Logo Oficial del Juego
+ui_game_logo_00001_.png
+16-Bit Retro SNES style UI element, title text OUTPOST DELTA REAPERS HARVEST, neon typography, pure chroma green background.
+
+Marco Gótico para Modales
+ui_modal_frame_gothic_00001_.png
+16-Bit Retro SNES style UI element, gothic basalt rectangular frame with purple jewels, pure chroma green background.
+
+Círculo de la Barra Hotbar
+ui_hotbar_slot_00001_.png
+16-Bit Retro SNES style UI element, dark iron circle with cyan glow, pure chroma green background.
+
+Cajón del Inventario (32 Slots)
+ui_inventory_drawer_00001_.png
+16-Bit Retro SNES style UI element, dark gothic parchment side panel grid, pure chroma green background.
+
+Base del Joystick Táctil
+ui_joystick_base_00001_.png
+16-Bit Retro SNES style UI element, transparent cyan orbital ring, pure chroma green background.
+
+Pivote del Joystick
+ui_joystick_knob_00001_.png
+16-Bit Retro SNES style UI element, neon green mystical center sphere, pure chroma green background.
+
+Botón STRIKE / BUILD
+ui_btn_strike_00001_.png
+16-Bit Retro SNES style UI element, circular button with scythe icon, pure chroma green background.
+
+Marco del Minimapa Radar
+ui_minimap_frame_00001_.png
+16-Bit Retro SNES style UI element, octagonal metal frame with soul compass, pure chroma green background.
+
+Barra de Vida y Energía
+ui_hud_bar_frame_00001_.png
+16-Bit Retro SNES style UI element, progress bar container for health and energy, pure chroma green background.
+
+🧱 3. Texturas de Terrenos, Biomas y Bloques de Construcción
+🌍 A. Texturas de Suelo y Terrenos Isométricos 2.5D
+Pradera Verde (Grass)
+tile_grass_prairie_00001_.png
+16-Bit Retro isometric floor tile, bright green grass with blades, minimalist SNES indie game sprite. POV 45^\circ.
+
+Tierra Nether (Dirt)
+tile_dirt_soil_00001_.png
+16-Bit Retro isometric floor tile, dark fertile dirt soil, minimalist SNES indie game sprite. POV 45^\circ.
+
+Arena de Océano (Sand)
+tile_sand_dune_00001_.png
+16-Bit Retro isometric floor tile, golden sand dunes, minimalist SNES indie game sprite. POV 45^\circ.
+
+Agua Oceánica Profunda (Water)
+tile_water_ocean_00001_.png
+16-Bit Retro isometric floor tile, crystal cyan deep water with waves, minimalist SNES indie game sprite. POV 45^\circ.
+
+Montaña de Basalto (Cliff)
+tile_mountain_rock_00001_.png
+16-Bit Retro isometric elevation block, cracked grey stone cliff, minimalist SNES indie game sprite. POV 45^\circ.
+
+Ruinas Humanas (Ruins)
+tile_human_ruin_00001_.png
+16-Bit Retro isometric floor tile, worn stone ruins with pillars, minimalist SNES indie game sprite. POV 45^\circ.
+
+🧱 B. 5 Bloques y Muros de Fortificación Estilo Minecraft/Terraria
+Soul Wood Block (HP: 80)
+block_wall_wood_00001_.png
+16-Bit Retro isometric block, carved soul wood logs, minimalist SNES indie game sprite. POV 45^\circ.
+
+Basalt Stone Wall (HP: 180)
+block_wall_stone_00001_.png
+16-Bit Retro isometric block, reinforced basalt stone bricks, minimalist SNES indie game sprite. POV 45^\circ.
+
+Glacial Ice Wall (HP: 250)
+block_wall_ice_00001_.png
+16-Bit Retro isometric block, translucent turquoise glacial ice crystal, minimalist SNES indie game sprite. POV 45^\circ.
+
+Golden Citadel Wall (HP: 300)
+block_wall_gold_00001_.png
+16-Bit Retro isometric block, imperial gold bricks with inscriptions, minimalist SNES indie game sprite. POV 45^\circ.
+
+Obsidian Fortress Wall (HP: 400)
+block_wall_obsidian_00001_.png
+16-Bit Retro isometric block, volcanic obsidian with fire cracks, minimalist SNES indie game sprite. POV 45^\circ.
+
+
+🔥 9. Elementos de Asedio y Oleadas (Siege & Waves)
+Portal de Asedio (Spawn de Enemigos)
+structure_siege_portal_00001_.png
+16-Bit Retro isometric block, burning enemy spawn portal, SNES style, blood red and searing orange flames, minimalist indie game sprite, pure chroma green background. POV 45^\circ.
+
+Alerta de Oleada Entrante (UI Icon)
+ui_siege_warning_00001_.png
+16-Bit Retro SNES style UI element, glowing blood red warning skull icon, searing orange accents, pure chroma green background.
+
+Barra de Progreso de Asedio (UI)
+ui_wave_progress_bar_00001_.png
+16-Bit Retro SNES style UI element, wave progression bar filled with searing orange and blood red energy, pure chroma green background.
+
+Proyectil de Fuego Enemigo (FX)
+fx_enemy_fireball_00001_.png
+16-Bit Retro SNES style UI element, enemy fireball projectile, searing orange and blood red flames, pure chroma green background.
+
+Marca de Daño Crítico (FX)
+fx_critical_damage_00001_.png
+16-Bit Retro SNES style UI element, critical damage blood red slash effect, searing orange sparks, pure chroma green background.
+
+Aura de Furia Enemiga (Enemy Buff)
+fx_berserk_aura_00001_.png
+16-Bit Retro SNES style UI element, burning blood red aura for enemy buffs, searing orange accents, pure chroma green background.
+
+
